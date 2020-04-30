@@ -4,7 +4,7 @@
 ##### requirementts :
     1) flask
         pip install flask
-    2) TextBlob
+    2) textblob
         pip install textblob
 ##### API parameters
     GET REQUEST 
